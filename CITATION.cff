@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Fit of a von Mises mixture to a TCday sample"
+abstract: "R code that fits a mixture of von Mises distributions to a sample of tropical cyclone days (TCday) and extracts the seasonality percentiles (TCnth) used in Treppiedi et al., Contrasting Shifts in Tropical Cyclone Seasonality Across Global Basins."
+type: software
+version: "1.0"
+date-released: 2026-10-12
+license: MIT
+repository-code: "https://github.com/dtreppiedi/tc-seasonality-vonmises"
+keywords:
+  - tropical cyclones
+  - seasonality
+  - circular statistics
+  - von Mises distribution
+authors:
+  - family-names: Treppiedi
+    given-names: Dario
+    affiliation: "University of Palermo, Palermo, Italy"
+    orcid: "https://orcid.org/0000-0002-1359-1650"
+  - family-names: Villarini
+    given-names: Gabriele
+    affiliation: "Princeton University, Princeton, New Jersey, USA"
+  - family-names: Scoccimarro
+    given-names: Enrico
+    affiliation: "CMCC Foundation - Euro-Mediterranean Center on Climate Change, Italy"
+  - family-names: Yang
+    given-names: Wenchang
+    affiliation: "Princeton University, Princeton, New Jersey, USA"
+  - family-names: Vecchi
+    given-names: Gabriel A.
+    affiliation: "Princeton University, Princeton, New Jersey, USA"
+  - family-names: Noto
+    given-names: Leonardo V.
+    affiliation: "University of Palermo, Palermo, Italy"
